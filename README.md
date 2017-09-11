@@ -1,2 +1,2 @@
 # Qless
-Android Application
+Android Application for Mobile platform
